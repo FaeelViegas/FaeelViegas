@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F57D16&height=120&section=header"/>
 
 
 <h1 align="center" style="color: #EB9326">Victor Rafaeel Dos Anjos Viegas</h1>

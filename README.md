@@ -25,7 +25,7 @@
 🔹 Comecei aprendendo lógica com C++ e me aprofundei em Java, mas hoje atuo principalmente no desenvolvimento <b>Full Stack</b> com <b>C# (.NET)</b>, <b>TypeScript</b>, <b>Angular</b>, <b>React</b> e <b>Node.js / Bun</b>, além de trabalhar com <b>Python</b> em pipelines de dados e ETL.
 </p>
 <p>
-🔹 Tenho foco em arquiteturas escaláveis, integração e ingestão de telemetria <b>IoT</b> em tempo real (<b>MQTT</b>, <b>LoRaWAN</b>, <b>WebSockets</b>, <b>TCP</b>), automação de fluxos (<b>n8n</b>), conteinerização com <b>Docker</b> e criação de ferramentas nativas para <b>Linux (GNOME / Wayland)</b>.
+🔹 Tenho foco em arquiteturas escaláveis, integração e ingestão de telemetria <b>IoT</b> em tempo real (<b>MQTT</b>, <b>LoRaWAN</b>, <b>WebSockets</b>, <b>TCP</b>), automação de fluxos (<b>n8n</b>), conteinerização com <b>Docker</b>.
 </p>
 </div>
 
@@ -38,7 +38,7 @@
 🔹 I took my first steps in programming with C++ and Java, and today I work primarily as a <b>Full Stack Developer</b> with <b>C# (.NET)</b>, <b>TypeScript</b>, <b>Angular</b>, <b>React</b>, and <b>Node.js / Bun</b>, alongside <b>Python</b> for data pipelines and ETL workloads.
 </p>
 <p>
-🔹 My main focus areas include scalable backend architectures, real-time <b>IoT</b> telemetry ingestion and integrations (<b>MQTT</b>, <b>LoRaWAN</b>, <b>WebSockets</b>, <b>TCP</b>), workflow automation (<b>n8n</b>), containerization with <b>Docker</b>, and native tooling for <b>Linux (GNOME / Wayland)</b>.
+🔹 My main focus areas include scalable backend architectures, real-time <b>IoT</b> telemetry ingestion and integrations (<b>MQTT</b>, <b>LoRaWAN</b>, <b>WebSockets</b>, <b>TCP</b>), workflow automation (<b>n8n</b>), containerization with <b>Docker</b>.
 </p>
 </div>
 

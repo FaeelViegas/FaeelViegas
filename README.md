@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-viegas-bbb11b181)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaeelViegas)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafaeel.viegas@gmail.com)
-[![Perfil DIO](https://img.shields.io/badge/-Perfil_DIO-000?style=for-the-badge)](https://www.dio.me/users/rafaeel410)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faeel_viegas/)
 
 </div>

@@ -105,19 +105,6 @@
 
 </div>
 
-<h2 align="center">🚀 Projetos Públicos em Destaque / Featured Public Projects</h2>
-
-<div align="center">
-
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| [**lumen-spotlight**](https://github.com/FaeelViegas/lumen-spotlight) | Launcher e busca global estilo Spotlight para GNOME Shell 50 (Wayland), com indexador persistente e painel de preview | GJS, GTK4 / libadwaita, Python, SQLite FTS5 |
-| [**metrion-backend**](https://github.com/FaeelViegas/metrion-backend) & [**metrion-app**](https://github.com/FaeelViegas/metrion-app) | Backend e aplicação frontend integrados | C# (.NET), TypeScript |
-| [**mqtt-service**](https://github.com/FaeelViegas/mqtt-service) | Serviço de mensageria e comunicação MQTT | C# (.NET), MQTT |
-| [**tic-tac-toe-socket**](https://github.com/FaeelViegas/tic-tac-toe-socket) | Jogo multiplayer em tempo real utilizando comunicação via sockets | C#, Sockets |
-
-</div>
-
 <h2 align="center">📋 GitHub Stats</h2>
 
 <div align="center">

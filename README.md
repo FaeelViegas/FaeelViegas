@@ -1,136 +1,133 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F57D16&height=120&section=header"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F57D16&height=120&section=header"/>
 
 <h1 align="center" style="color: #EB9326">Victor Rafaeel Dos Anjos Viegas</h1>
-<p align="center">Sou tambem conhecido como <b style="color: #EB9326">Faeel</b>, e estou cursando Engenharia de Software no UniSenai - Campus Londrina.</p>
-<p align="center">I am also known as <b style="color: #EB9326">Faeel</b>, and I am studying Software Engineering at UniSenai - Londrina Campus.</p>
+<p align="center">Também conhecido como <b style="color: #EB9326">Faeel</b> • Desenvolvedor Full Stack & IoT • Engenharia de Software no UniSenai - Campus Londrina</p>
+<p align="center">Also known as <b style="color: #EB9326">Faeel</b> • Full Stack & IoT Developer • Software Engineering at UniSenai - Londrina Campus</p>
 
-<h2 align="center"> 🔌Conecte-se comigo / Connect with me </h2>
+<h2 align="center">🔌 Conecte-se comigo / Connect with me</h2>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-viegas-bbb11b181)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/FaeelViegas)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:rafaeel.viegas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaeelViegas)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rafaeel.viegas@gmail.com)
 [![Perfil DIO](https://img.shields.io/badge/-Perfil_DIO-000?style=for-the-badge)](https://www.dio.me/users/rafaeel410)
-
-
-<div>
-<h3 align="center">Sobre mim</h3> 
-<p>
-🔹 Desde sempre fui fascinado por tecnologia. Minha jornada começou no mundo do design gráfico, onde trabalhei por um tempo, até que, em 2023, decidi migrar para a programação. Iniciei meus estudos com um curso Técnico em Análise e Desenvolvimento de Sistemas, o que abriu portas para novas oportunidades.
-</p>
-<p>
-🔹 Atualmente, estou cursando Engenharia de Software, o que tem sido uma experiência enriquecedora, permitindo-me explorar uma ampla gama de tecnologias e práticas de desenvolvimento.
-</p>
-<p>
-🔹 Minha introdução ao mundo da programação foi com C++, mas logo percebi que minha verdadeira paixão estava na linguagem Java. Desde então, tenho me dedicado a aprofundar meus conhecimentos e habilidades nessa linguagem, que considero essencial para o desenvolvimento de soluções robustas e escaláveis.
-</p>
-<p>
-🔹 Sou um eterno aprendiz, sempre motivado pela curiosidade e pelo desejo de resolver problemas complexos com o apoio da tecnologia. Estou constantemente em busca de novos conhecimentos e habilidades, mantendo-me proativo e focado no crescimento profissional contínuo.
-</p>
-  
-<div>
-<h3 align="center">About Me</h3> 
-<p>
-🔹 I've always been fascinated by technology. My journey began in the world of graphic design, where I worked for some time until, in 2023, I decided to transition into programming. I started my studies with a Technical Course in Systems Analysis and Development, which opened doors to new opportunities.
-</p>
-<p>
-🔹 Currently, I am pursuing a degree in Software Engineering, which has been an enriching experience, allowing me to explore a wide range of technologies and development practices.
-</p>
-<p>
-🔹 My introduction to the programming world was with C++, but I soon realized that my true passion was in the Java language. Since then, I have been dedicated to deepening my knowledge and skills in this language, which I consider essential for developing robust and scalable solutions.
-</p>
-<p>
-🔹 I am a lifelong learner, always driven by curiosity and a desire to solve complex problems with the help of technology. I am constantly seeking new knowledge and skills, staying proactive and focused on continuous professional growth.
-</p>
-
-<h2 align="center"> ⚒️ Habilidades / Hardskills</h2>
-
-<h3 align="center"> Linguagens / Languages</h3>
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faeel_viegas/)
 
 </div>
 
-<h3 align="center"> Linguagens de Marcação e Estilo / Markup and Style Languages</h3>
+<div>
+<h3 align="center">Sobre mim</h3>
+<p>
+🔹 Minha jornada na tecnologia começou pelo design gráfico e, em 2023, migrei para a programação — iniciando com um curso Técnico em Análise e Desenvolvimento de Sistemas e hoje cursando <b>Engenharia de Software</b> no UniSenai (Londrina-PR).
+</p>
+<p>
+🔹 Comecei aprendendo lógica com C++ e me aprofundei em Java, mas hoje atuo principalmente no desenvolvimento <b>Full Stack</b> com <b>C# (.NET)</b>, <b>TypeScript</b>, <b>Angular</b>, <b>React</b> e <b>Node.js / Bun</b>, além de trabalhar com <b>Python</b> em pipelines de dados e ETL.
+</p>
+<p>
+🔹 Tenho foco em arquiteturas escaláveis, integração e ingestão de telemetria <b>IoT</b> em tempo real (<b>MQTT</b>, <b>LoRaWAN</b>, <b>WebSockets</b>, <b>TCP</b>), automação de fluxos (<b>n8n</b>), conteinerização com <b>Docker</b> e criação de ferramentas nativas para <b>Linux (GNOME / Wayland)</b>.
+</p>
+</div>
 
+<div>
+<h3 align="center">About Me</h3>
+<p>
+🔹 My journey in technology started in graphic design, and in 2023 I transitioned into software development — starting with a Technical degree in Systems Analysis and Development and currently pursuing a degree in <b>Software Engineering</b> at UniSenai (Londrina-PR, Brazil).
+</p>
+<p>
+🔹 I took my first steps in programming with C++ and Java, and today I work primarily as a <b>Full Stack Developer</b> with <b>C# (.NET)</b>, <b>TypeScript</b>, <b>Angular</b>, <b>React</b>, and <b>Node.js / Bun</b>, alongside <b>Python</b> for data pipelines and ETL workloads.
+</p>
+<p>
+🔹 My main focus areas include scalable backend architectures, real-time <b>IoT</b> telemetry ingestion and integrations (<b>MQTT</b>, <b>LoRaWAN</b>, <b>WebSockets</b>, <b>TCP</b>), workflow automation (<b>n8n</b>), containerization with <b>Docker</b>, and native tooling for <b>Linux (GNOME / Wayland)</b>.
+</p>
+</div>
+
+<h2 align="center">⚒️ Tech Stack & Habilidades</h2>
+
+<h3 align="center">Linguagens / Languages</h3>
 <div align="center">
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
-<h3 align="center">Bibliotecas e Frameworks / Libraries and Frameworks</h3>
-
+<h3 align="center">Frameworks, Runtimes & Bibliotecas / Frameworks & Libraries</h3>
 <div align="center">
-  
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
-<h3 align="center">Banco de Dados / Database</h3>
+<h3 align="center">Dados, Mensageria & Automação / Data, Messaging & Automation</h3>
 <div align="center">
-  
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
-<h3 align="center">Cloud Computing Service</h3>
+<h3 align="center">Cloud, Infra & Sistema Operacional / Cloud, Infra & OS</h3>
 <div align="center">
-  
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-</div>
-
-<h3 align="center">Sistema Operacional / Operating System</h3>
-<div align="center">
-  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 </div>
 
 <h3 align="center">Ferramentas / Tools</h3>
 <div align="center">
-  
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-<h2 align="center"> 📋 Github Stats </h2>
+
+<h2 align="center">🚀 Projetos Públicos em Destaque / Featured Public Projects</h2>
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaeelViegas&show_icons=true&theme=codeSTACKr&locale=pt-br)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaeelViegas&theme=codeSTACKr&locale=pt-br&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| [**lumen-spotlight**](https://github.com/FaeelViegas/lumen-spotlight) | Launcher e busca global estilo Spotlight para GNOME Shell 50 (Wayland), com indexador persistente e painel de preview | GJS, GTK4 / libadwaita, Python, SQLite FTS5 |
+| [**metrion-backend**](https://github.com/FaeelViegas/metrion-backend) & [**metrion-app**](https://github.com/FaeelViegas/metrion-app) | Backend e aplicação frontend integrados | C# (.NET), TypeScript |
+| [**mqtt-service**](https://github.com/FaeelViegas/mqtt-service) | Serviço de mensageria e comunicação MQTT | C# (.NET), MQTT |
+| [**tic-tac-toe-socket**](https://github.com/FaeelViegas/tic-tac-toe-socket) | Jogo multiplayer em tempo real utilizando comunicação via sockets | C#, Sockets |
 
 </div>
 
-<h2 align="center"> 📖 Cursos e Bootcamps </h2>
-
-<div align="center">
-  
-</div>
-
-<h2 align="center"> 📱 Redes sociais / Social media </h2>
+<h2 align="center">📋 GitHub Stats</h2>
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faeel_viegas/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FaeelViegas&show_icons=true&theme=codeSTACKr&locale=pt-br)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaeelViegas&theme=codeSTACKr&locale=pt-br&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
-<br>
-<br>
-<br>
+
 <br>
 
-
->"Whoever says it can't be done should never interrupt the one who is doing it."
+> "Whoever says it can't be done should never interrupt the one who is doing it."
